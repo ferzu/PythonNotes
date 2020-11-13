@@ -1,2 +1,2 @@
 # PythonNotes
-[link](/UsefulLinks.md#The Python Tutorial)
+[link](/UsefulLinks.md)
