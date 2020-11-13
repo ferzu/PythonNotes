@@ -1,4 +1,3 @@
-<a href="https://github.com/ferzu/PythonNotes">Home</a>  
 # Data Structures  
 
 ## Lists
@@ -104,6 +103,7 @@ For data structures, it is very useful to understand how you index, are they mut
 ---
 *From Udacity Course*
 
+<a href="https://github.com/ferzu/PythonNotes">Home</a>
 
 
 
