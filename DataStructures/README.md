@@ -1,4 +1,5 @@
-# Data Structures                    <a href="https://github.com/ferzu/PythonNotes">Home</a>  
+                  <a href="https://github.com/ferzu/PythonNotes">Home</a>  
+# Data Structures  
 
 ## Lists
 Mutable, ordered data type.
