@@ -1,5 +1,3 @@
-### Summary of useful control flow techniques: 
-
 ## CREATE LIST
 ```python
 #names = ["Joey Tribbiani", "Monica Geller", "Chandler Bing", "Phoebe Buffay"]
