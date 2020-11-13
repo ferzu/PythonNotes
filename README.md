@@ -1,9 +1,9 @@
 ## Python Notes
 ### Content:
-[Useful Links](/UsefulLinks.md)
+*[Useful Links](/UsefulLinks.md)
 
-[Data Structures](/DataStructures/README.md)
+*[Data Structures](/DataStructures/README.md)
 
-[Control Flow](/ControlFlow/README.md)
+*[Control Flow](/ControlFlow/README.md)
 
-[Files](/Files/README.md)
+*[Files](/Files/README.md)
