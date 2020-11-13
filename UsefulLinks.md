@@ -1,4 +1,4 @@
-                                                                                                                    [Home](/)
+                                                                                                     [Home](PythonNotes/)
 ## The Python Tutorial
 https://docs.python.org/3/tutorial/
 
