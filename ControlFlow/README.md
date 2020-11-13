@@ -1,11 +1,3 @@
-# Python-Control-Flow
-
-Python files in the repo. A summary of useful tools and techniques below.
-
-
-
----
-
 ### Summary of useful control flow techniques: 
 
 ## CREATE LIST
